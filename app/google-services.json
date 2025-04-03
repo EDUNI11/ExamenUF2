@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337646132071",
+    "project_id": "uf2examen",
+    "storage_bucket": "uf2examen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337646132071:android:fdb6ee9a29579e31076dc2",
+        "android_client_info": {
+          "package_name": "com.eduni.examenuf2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttnKUKBAluXT-Ydo-T-oM3oR_26cUsJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
